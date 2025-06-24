@@ -9,6 +9,7 @@ public class Lab011_Switch_Ex_11 {
             default -> System.out.println("Not Match");
             case 'A' -> System.out.println("65");
             case 'B' -> System.out.println("66");
+
         }
     }
 }
