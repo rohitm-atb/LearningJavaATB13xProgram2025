@@ -15,7 +15,6 @@ public class Lab019_Electricity_Bill {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
-
         System.out.print("Enter the number of units consumed: ");
         int units = input.nextInt();
 
