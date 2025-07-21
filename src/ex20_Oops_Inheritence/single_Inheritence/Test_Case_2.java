@@ -1,4 +1,4 @@
-package single_Inheritence;
+package ex20_Oops_Inheritence.single_Inheritence;
 
 public class Test_Case_2 extends CommonToAll {
 

@@ -1,7 +1,4 @@
-package multilevel_Inheritance;
-
-import single_Inheritence.Test_Case_1;
-import single_Inheritence.Test_Case_2;
+package ex20_Oops_Inheritence.multilevel_Inheritance;
 
 public class Lab003_Multilevel_Inheritance {
 

@@ -1,4 +1,4 @@
-package hierarchical;
+package ex20_Oops_Inheritence.hierarchical;
 
 public class Lab005_hierarchical {
     public static void main(String[] args) {
