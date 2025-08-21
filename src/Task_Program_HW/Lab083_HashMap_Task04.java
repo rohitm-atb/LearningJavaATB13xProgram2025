@@ -15,7 +15,7 @@ f -> 2*/
 import java.util.HashMap;
 import java.util.Map;
 
-public class Lab083_List_Task04 {
+public class Lab083_HashMap_Task04 {
     public static void main(String[] args) {
         String input = "aabbccddeeff";
 

@@ -16,7 +16,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
-public class Lab081_List_Task02 {
+public class Lab081_HashMap_Task02 {
 
     public static void main(String[] args) {
         Map<String, String> map = new HashMap<>();

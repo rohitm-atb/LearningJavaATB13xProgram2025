@@ -13,7 +13,7 @@ powerful -> 1*/
 import java.util.HashMap;
 import java.util.Map;
 
-public class Lab080_List_Task01 {
+public class Lab080_HashMap_Task01 {
     public static void main(String[] args) {
         String sentence = "java is easy and java is powerful";
         String[] words = sentence.split(" ");

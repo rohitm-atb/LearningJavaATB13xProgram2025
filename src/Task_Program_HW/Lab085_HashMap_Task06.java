@@ -14,7 +14,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class Lab085_List_Task06 {
+public class Lab085_HashMap_Task06 {
     public static void main(String[] args) {
         String[] words = {"Java", "is", "fun", "cool", "Hi"};
         Map<Integer, List<String>> lengthMap = new HashMap<>();

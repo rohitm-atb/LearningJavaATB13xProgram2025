@@ -11,7 +11,7 @@ Output:
 import java.util.HashMap;
 import java.util.Map;
 
-public class Lab086_List_Task07 {
+public class Lab086_HashMap_Task07 {
     public static void main(String[] args) {
         Map<Integer, String> students = new HashMap<>();
         students.put(101, "Anjali");

@@ -13,7 +13,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
 
-public class Lab082_List_Task03 {
+public class Lab082_HashMap_Task03 {
 
     public static void main(String[] args) {
         Map<String, Integer> hashMap = new HashMap<>();

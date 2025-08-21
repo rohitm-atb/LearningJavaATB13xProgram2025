@@ -9,7 +9,7 @@ Output:  Most frequent character is: a (4 times)*/
 import java.util.HashMap;
 import java.util.Map;
 
-public class Lab087_List_Task08 {
+public class Lab087_HashMap_Task08 {
 
     public static void main(String[] args) {
         String input = "aaaabbbcc";
